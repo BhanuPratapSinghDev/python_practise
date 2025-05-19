@@ -45,7 +45,8 @@
 # if wrong variable name used in program then NameError: name 'nama' not defined
 
 
-#DAY 1 PROJECT
+#DAY 1 PROJECT BAND NAME GENERATOR
+
 print("Welcome to the Band Name Generator ")
 city_name= input("What's your city name?\n")
 pet_name=input("What's your pet name?\n")
