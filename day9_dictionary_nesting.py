@@ -66,5 +66,6 @@ travel_log2 = {
 print(travel_log2["France"])                        # {'Paris': 8, 'Lille': 7, 'Dj': [1, 2, 3, 4]}
 print(travel_log2["France"]["Dj"][1])               # 2
 
+print(travel_log2.values())                         # dict_values([{'Paris': 8, 'Lille': 7, 'Dj': [1, 2, 3, 4]}])
 # project in the next
 # file
